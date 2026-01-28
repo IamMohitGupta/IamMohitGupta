@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-👋 Hi, I’m Mohit Gupta<br><br>I’m a Computer Science graduate student at the University of Colorado Boulder with a strong focus on Generative AI, machine learning systems, and cloud-native software engineering.<br><br>I enjoy building production-grade AI systems — from LLM-powered assistants and RAG pipelines to scalable backend services — with an emphasis on real-world impact, reliability, and clean architecture.<br><br>Currently exploring LLMs, Retrieval-Augmented Generation, distributed systems, and applied ML through research, industry projects, and open-source work.
+👋 Hi, I’m Mohit Gupta<br><br>I’m a Computer Science graduate student at the University of Colorado Boulder with a strong focus on Generative AI, machine learning systems, and cloud-native software engineering.<br><br>I enjoy building production-grade AI systems - from LLM-powered assistants and RAG pipelines to scalable backend services — with an emphasis on real-world impact, reliability, and clean architecture.<br><br>Currently exploring LLMs, Retrieval-Augmented Generation, distributed systems, and applied ML through research, industry projects, and open-source work.
 
 
 ## 🌐 Socials:
